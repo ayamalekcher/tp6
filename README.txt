@@ -1,1 +1,1 @@
-Cette section a été ajoutée dans la branche feature-update
+Cette section a été ajoutée dans la branche feature-update.
